@@ -1,1 +1,1 @@
-# operadores-l-gicos-par-o-impar
+# operadores-logicos-par-o-impar
